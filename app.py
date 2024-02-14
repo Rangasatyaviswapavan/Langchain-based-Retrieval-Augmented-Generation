@@ -11,7 +11,7 @@ from langchain.vectorstores.chroma import Chroma
 from langchain.chat_models import ChatOpenAI
 from langchain.prompts import ChatPromptTemplate
 
-os.environ['OPENAI_API_KEY'] = "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"
+os.environ['OPENAI_API_KEY'] = "add your key here"
 
 CHROMA_PATH = "chroma"
 DATA_PATH = "data/books"
