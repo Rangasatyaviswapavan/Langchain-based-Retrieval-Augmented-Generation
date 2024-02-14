@@ -17,17 +17,17 @@ This Q&A system has been trained on a dataset consisting of the Harry Potter boo
 
 1. Clone the repository to your local machine:
 
-git clone https://github.com/your_username/langchain-retrieval-augmented-generation.git
+    git clone https://github.com/your_username/langchain-retrieval-augmented-generation.git
 
 
 2. Navigate to the project directory:
 
-cd langchain-retrieval-augmented-generation
+    cd langchain-retrieval-augmented-generation
 
 
 3. Install the necessary dependencies:
 
-pip install -r requirements.txt
+    pip install -r requirements.txt
 
 
 ## Usage
