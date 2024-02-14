@@ -9,11 +9,9 @@
 - **Streamlit Interface:** Offers an intuitive user interface powered by Streamlit, allowing users to input queries and receive responses in real-time.
 - **Customizable:** Easily customizable to accommodate different datasets and adapt to specific use cases.
 
-## Trained on Harry Potter Books Dataset
+## Trained on Harry Potter Books Dataset ⚡🧙
 
 This Q&A system has been trained on a dataset consisting of the Harry Potter book series to provide responses related to the magical world of Harry Potter.
-
-![Harry Potter](harry.png)
 
 ## Installation
 
