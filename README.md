@@ -34,7 +34,7 @@ This Q&A system has been trained on a dataset consisting of the Harry Potter boo
 
 1. Run the Streamlit app:
 
-streamlit run app.py
+    streamlit run app.py
 
 2. Open your web browser and go to `http://localhost:8501` to access the Streamlit interface.
 
