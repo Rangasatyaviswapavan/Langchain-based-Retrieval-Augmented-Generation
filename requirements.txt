@@ -1,4 +1,4 @@
-sqlite3==3.35.0
+sqlite3==3.45.1
 langchain
 unstructured # Document loading
 chromadb # Vector storage
