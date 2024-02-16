@@ -11,7 +11,7 @@ from langchain.vectorstores.chroma import Chroma
 from langchain.chat_models import ChatOpenAI
 from langchain.prompts import ChatPromptTemplate
 
-os.environ['OPENAI_API_KEY'] = "add your key here"
+os.environ['OPENAI_API_KEY'] = key
 
 CHROMA_PATH = "chroma"
 DATA_PATH = "data/books"
@@ -54,6 +54,7 @@ def run_cli(query_text):
 
 def run_streamlit():
     st.title("Summon the Magical Title: 'Inquiries of Hogwarts")
+    key = st.text_input("open ai api key")
 
     query_text = st.text_area("Unveil Your Incantation (Query):", "")
 
